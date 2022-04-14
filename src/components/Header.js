@@ -6,7 +6,8 @@ export default function Header() {
 
 const Heading = styled.h1`
   color: red;
-  font-family: Lucida Grande;
+  font-family: Monospace;
+  background: linear-gradient(to bottom right, #333333, #121212);
   align-self: center;
   text-align: center;
   margin: 0;

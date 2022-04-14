@@ -1,11 +1,14 @@
 import styled from 'styled-components';
 import Header from '../components/Header.js';
+import Road from '../components/Road.js';
 
 export default function Highway() {
   return (
     <PageContainer>
       <Header />
-      <HighwayContainer></HighwayContainer>
+      <HighwayContainer>
+        <Road />
+      </HighwayContainer>
     </PageContainer>
   );
 }
