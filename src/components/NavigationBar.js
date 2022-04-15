@@ -5,8 +5,8 @@ export default function NavigationBar() {
   return (
     <Navigation>
       <NavigationLink to="/">Start</NavigationLink>
-      <NavigationLink to="/score">Highscore</NavigationLink>
       <NavigationLink to="/game">Game</NavigationLink>
+      <NavigationLink to="/score">Highscore</NavigationLink>
     </Navigation>
   );
 }

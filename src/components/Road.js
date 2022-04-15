@@ -5,7 +5,7 @@ export default function Road() {
 }
 
 const Street = styled.div`
-  height: 90%;
+  height: 100vh;
   width: 400px;
   margin: auto;
   position: relative;

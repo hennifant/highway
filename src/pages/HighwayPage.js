@@ -2,7 +2,6 @@ import styled from 'styled-components';
 import Header from '../components/Header.js';
 import NavigationBar from '../components/NavigationBar.js';
 import Road from '../components/Road.js';
-import Score from '../components/Score.js';
 
 export default function Highway() {
   return (
