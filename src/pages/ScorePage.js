@@ -9,7 +9,7 @@ export default function Highway() {
     <PageContainer>
       <Header />
       <HighwayContainer>
-        <Road />
+        <Score />
       </HighwayContainer>
       <NavigationBar />
     </PageContainer>
